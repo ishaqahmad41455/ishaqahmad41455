@@ -10,8 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/ahmaishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmaishaq" height="30" width="40" /></a>
 </p>
-<a href="https://facebook.com/Is Haq Ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmaishaq" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/Ahmad ishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmad ishaq" height="30" width="40" /></a>
 <p align="left">
 </p>
 
