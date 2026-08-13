@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaqahmad41455&label=Profile%20views&color=0e75b6&style=flat" alt="ishaqahmad41455" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaqahmad41455" alt="ishaqahmad41455" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaqahmad41455" alt="ishaqahmad41455" /></a> </p> -->
 
 
 - 📫 How to reach me **ahmadishaq41455@gmail.com**
