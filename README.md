@@ -66,12 +66,18 @@
 
 ### 📊 GitHub Stats
 
+<!-- GitHub Stats - Using alternate service -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&v=1" alt="GitHub Stats" />
+  <a href="https://github.com/ishaqahmad41455">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaqahmad41455&theme=radical" alt="GitHub Profile Details" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" alt="Top Languages" />
+  <a href="https://github.com/ishaqahmad41455">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishaqahmad41455&theme=radical" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishaqahmad41455&theme=radical" alt="Most Commit Language" />
+  </a>
 </p>
 
 <p align="center">
