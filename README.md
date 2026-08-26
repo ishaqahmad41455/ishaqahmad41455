@@ -86,8 +86,3 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ishaqahmad41455" alt="GitHub Contribution Chart" />
-</p>
