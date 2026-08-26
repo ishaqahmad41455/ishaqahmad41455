@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&hide=issues&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
