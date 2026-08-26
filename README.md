@@ -1,11 +1,22 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="40" style="vertical-align: middle; margin-right: 10px;"/> -->
   Hi 👋, I'm Ishaq Ahmad Khan
 </h1>
 
 <h3 align="center">DevOps Engineer at Sequel Technologies</h3>
+<h3 align="center">AWS | Azure | GCP | IIS Server | Docker | Kubernetes | CI/CD | Terraform | Github | SOC2 | Data analysis | Shell scripting | Prometheus | Grafana</h3>
 
- ![Profile views](https://komarev.com/ghpvc/?username=ishaqahmad41455&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaqahmad41455&label=Profile%20views&color=0e75b6&style=flat" alt="ishaqahmad41455" /> </p>
+
+- 🔭 I’m currently working on **Cloud Infrastructure & DevOps Automation**
+
+- 🌱 I’m currently learning **Kubernetes, Helm & Cloud-Native Technologies**
+
+- 👯 I’m looking to collaborate on **DevOps, Cloud & Infrastructure Projects**
+
+- 🤝 I’m looking for help with **Advanced Kubernetes, Operators & Cloud-Native Architecture**
+
+- 💬 Ask me about **AWS, GCP, Azure, Docker, Kubernetes, Terraform & CI/CD**
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ishaqahmad41455&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
