@@ -89,5 +89,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaqahmad41455&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/ishaqahmad41455" alt="GitHub Contribution Chart" />
 </p>
