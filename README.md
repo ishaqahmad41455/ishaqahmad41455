@@ -62,9 +62,22 @@
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/></a>
 </div>
 
+<!-- Stats Section -->
 <div align="center">
-  <a href="https://github.com/ishaqahmad41455">
-    <img alt="GitHub Stats" src="https://img.shields.io/github/stars/ishaqahmad41455?style=social" />
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ishaqahmad41455?style=social" />
-  </a>
+  <h3>📊 GitHub Stats</h3>
+  
+  <!-- GitHub Stats -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
+  </p>
+  
+  <!-- Top Languages -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+  
+  <!-- GitHub Streak -->
+  <p>
+    <img align="center" src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
+  </p>
 </div>
