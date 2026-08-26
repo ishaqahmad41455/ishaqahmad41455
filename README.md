@@ -63,9 +63,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/ishaqahmad41455">
+    <img alt="GitHub Stats" src="https://img.shields.io/github/stars/ishaqahmad41455?style=social" />
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ishaqahmad41455?style=social" />
+  </a>
 </div>
