@@ -66,11 +66,11 @@
 <div align="center">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaqahmad41455&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p> -->
-  <!-- <p>
+  </p>
+  <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p> -->
-  <!-- <p>
+  </p>
+  <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqahmad41455" alt="GitHub Streak" />
   </p>
 </div>
