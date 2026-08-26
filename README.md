@@ -62,24 +62,28 @@
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/></a>
 </div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaqahmad41455&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<!-- Stats Section -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <br/>
+  
+  <!-- GitHub Stats -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  </p>
+  
+  <br/>
+  
+  <!-- Top Languages -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  </p>
+  
+  <br/>
+  
+  <!-- GitHub Streak - FIXED URL -->
+  <p>
+    <img align="center" src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  </p>
+</div>
