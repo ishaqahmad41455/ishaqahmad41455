@@ -62,21 +62,24 @@
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/></a>
 </div>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
+### 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <br/><br/>
-  
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- Contribution Graph -->
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaqahmad41455&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+</p>
