@@ -62,18 +62,10 @@
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/></a>
 </div>
 
-<!-- Stats Section -->
 <div align="center">
-  <p>
-    <!-- Top Languages -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaqahmad41455&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-  <p>
-    <!-- GitHub Stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  </p>
-  <p>
-    <!-- GitHub Streak - Using vercel.app instead of herokuapp -->
-    <img align="center" src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
 </div>
