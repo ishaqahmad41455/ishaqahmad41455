@@ -5,7 +5,7 @@
 
 <h3 align="center">DevOps Engineer at Sequel Technologies</h3>
 
-**Profile views** (https://komarev.com/ghpvc/?username=ishaqahmad41455&color=blue)
+ ![Profile views](https://komarev.com/ghpvc/?username=ishaqahmad41455&color=blue)
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ishaqahmad41455&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
