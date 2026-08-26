@@ -65,12 +65,15 @@
 <!-- Stats Section -->
 <div align="center">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaqahmad41455&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <!-- Top Languages -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaqahmad41455&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&locale=en" alt="GitHub Stats" />
+    <!-- GitHub Stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqahmad41455" alt="GitHub Streak" />
+    <!-- GitHub Streak - Using vercel.app instead of herokuapp -->
+    <img align="center" src="https://streak-stats.demolab.com?user=ishaqahmad41455&theme=radical" alt="GitHub Streak" />
   </p>
 </div>
