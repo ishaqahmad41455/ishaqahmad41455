@@ -67,11 +67,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&hide=issues&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaqahmad41455&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&v=1" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqahmad41455&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
